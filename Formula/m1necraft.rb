@@ -1,8 +1,8 @@
 class M1necraft < Formula
   desc "Patch Minecraft launcher to run Minecraft natively on ARM"
   homepage "https://raph.codes/projects/m1necraft"
-  url "https://github.com/raphtlw/m1necraft/archive/v0.1.4.tar.gz"
-  sha256 "e444ad1d9031e3de89d3b10dd4d69d6662da769502e5787d12fe7a54cc010203"
+  url "https://github.com/raphtlw/m1necraft/archive/v0.1.5.tar.gz"
+  sha256 "6400bd3586da1ac0f278db28f0b925643f70ad09e6dd65053e64477d5d7ddbbf"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
