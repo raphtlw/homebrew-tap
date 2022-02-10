@@ -1,6 +1,6 @@
 cask "m1necraft" do
   version "0.2.0"
-  sha256 "a3738d0513d736918a6d71535ef3d85dd184af267c05698e49ac4c6b48f38e17"
+  sha256 "f98eeda3518b7a7e1d31ac1a7d2b2773e669c3bbe464551dc2543c2ef3f277b7"
   
   url "https://github.com/raphtlw/m1necraft/releases/latest/download/M1necraft.app.zip"
   name "M1necraft"
