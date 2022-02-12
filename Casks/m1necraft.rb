@@ -8,7 +8,6 @@ cask "m1necraft" do
   desc "Patch Minecraft launcher to run Minecraft natively on ARM"
   homepage "https://raph.codes/projects/m1necraft"
 
-  app "M1necraft.app"
   installer script: "#{staged_path}/install.sh"
 
   uninstall trash: "/Applications/M1necraft.app"
