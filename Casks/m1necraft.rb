@@ -1,6 +1,6 @@
 cask "m1necraft" do
   version "0.2.1"
-  sha256 :no_check "f98eeda3518b7a7e1d31ac1a7d2b2773e669c3bbe464551dc2543c2ef3f277b7"
+  sha256 :no_check
   
   url "https://raw.githubusercontent.com/raphtlw/m1necraft/main/installer/install.sh",
       verified: "raw.githubusercontent.com/raphtlw/m1necraft/"
