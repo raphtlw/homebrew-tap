@@ -1,5 +1,5 @@
 cask "m1necraft" do
-  version "0.2.2"
+  version "0.2.4"
   sha256 :no_check
 
   url "https://raw.githubusercontent.com/raphtlw/m1necraft/main/installer/install.sh",
